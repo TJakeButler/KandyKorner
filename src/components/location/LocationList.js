@@ -36,6 +36,9 @@ export const LocationList = () => {
     )
 }
 
+
+
+
 // FOR REFERENCE***** THIS IS WHAT THE ABOVE CODE IS DOING IN THE RETURN ******
 
 // const properties = {
